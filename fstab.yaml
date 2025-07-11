@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/sirugh/my-worker-test/
+    type: markup
+
+folders:
+  /products/: /products/default
